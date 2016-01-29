@@ -1,4 +1,4 @@
-.idea
-.target
-KafkaMQ.iml
-.out
+KafkaMQ/.idea
+KafkaMQ/target
+KafkaMQ/KafkaMQ.iml
+KafkaMQ/out
